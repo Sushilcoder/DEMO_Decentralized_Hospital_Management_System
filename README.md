@@ -1,15 +1,13 @@
 # Decentralized_Hospital_Management_System
 
+#Project link : https://v0-decentralized-healthcare-records.vercel.app/
+
 # Main Page
-<img width="1082" height="906" alt="Screenshot 2026-01-28 235329" src="https://github.com/user-attachments/assets/5669704d-56b8-4936-8dc1-8328ebf8407c" />
+<img width="1863" height="918" alt="image" src="https://github.com/user-attachments/assets/4ea240ad-423d-4abe-906c-edc833d45668" />
 
 
-# Metamask Wallet Connection
-<img width="912" height="823" alt="Screenshot 2026-01-28 235359" src="https://github.com/user-attachments/assets/c726e2a9-2370-41cc-9135-90c6be738417" />
-
-
-# Medichain Dashboard 
-<img width="1920" height="929" alt="Screenshot 2026-01-28 235412" src="https://github.com/user-attachments/assets/a7c4c4f0-c770-4725-8944-42178b40686c" />
+#Login page
+<img width="991" height="768" alt="image" src="https://github.com/user-attachments/assets/a6d52d24-209d-4cac-8a7d-f060ab7ca44d" />
 
 
 # Patient Dashboard
